@@ -1,2 +1,4 @@
 # PowerBi-Sales-Dashboard
 An interactive Power BI Sales Dashboard that visualizes sales performance, profit trends, customer insights, and regional analysis. The dashboard helps businesses monitor KPIs, identify growth opportunities, and make informed decisions using data-driven insights.
+**Sales Dashboard Description**
+The Sales Dashboard is an interactive Power BI report designed to analyze and monitor sales performance across different products, customers, and regions. It provides real-time insights into key business metrics such as Total Sales, Profit, Orders, and Revenue Growth. The dashboard enables users to identify sales trends, track top-performing products, evaluate regional performance, and make data-driven business decisions through intuitive visualizations and dynamic filtering capabilities.
